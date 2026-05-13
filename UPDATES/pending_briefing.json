@@ -1,0 +1,47 @@
+{
+  "date": "2026-05-13",
+  "items": [
+    {
+      "source": "Netflix Tech Blog",
+      "title": "Towards Generalizable and Efficient Large-Scale Generative Recommenders",
+      "link": "https://netflixtechblog.com/towards-generalizable-and-efficient-large-scale-generative-recommenders-a7db648aa257",
+      "summary": "Netflix探索大规模生成式推荐器，高效扩展处理超大商品目录是关键挑战"
+    },
+    {
+      "source": "Netflix Tech Blog",
+      "title": "Optimizing Recommendation Systems with JDK's Vector API",
+      "link": "https://netflixtechblog.com/optimizing-recommendation-systems-with-jdks-vector-api-30d2830401ec",
+      "summary": "使用JDK Vector API优化Netflix Ranker服务性能，利用SIMD指令加速向量运算"
+    },
+    {
+      "source": "Netflix Tech Blog",
+      "title": "Democratizing Machine Learning at Netflix: Building the Model Lifecycle Graph",
+      "link": "https://netflixtechblog.com/democratizing-machine-learning-at-netflix-building-the-model-lifecycle-graph-5cc6d5828bb1",
+      "summary": "构建模型生命周期图谱，将MDS从被动目录转变为主动的ML资产推荐引擎"
+    },
+    {
+      "source": "Netflix Tech Blog",
+      "title": "Foundation Model for Personalized Recommendation",
+      "link": "https://netflixtechblog.com/foundation-model-for-personalized-recommendation-1a0bd8e02d39",
+      "summary": "Netflix探索将Foundation Model应用于个性化推荐，整合大规模交互历史和内容信息"
+    },
+    {
+      "source": "知乎/博文视点",
+      "title": "王喆 — 深度学习推荐系统 2.0",
+      "link": "https://zhuanlan.zhihu.com/p/1891454257569443893",
+      "summary": "王喆推出《深度学习推荐系统2.0》，新增推荐系统模拟器、边缘计算推荐方案等大模型时代内容"
+    },
+    {
+      "source": "GitHub",
+      "title": "Doragd/Algorithm-Practice-in-Industry 持续更新",
+      "link": "https://github.com/Doragd/Algorithm-Practice-in-Industry",
+      "summary": "工业界搜广推算法实践合集，近期更新arxiv论文，2709+ commits持续维护中"
+    },
+    {
+      "source": "arXiv cs.IR",
+      "title": "Information Retrieval 最新论文（2026-05-13）",
+      "link": "https://arxiv.org/list/cs.IR/recent",
+      "summary": "今日33篇新论文，包含多篇LLM+IR交叉研究论文，学术热度持续"
+    }
+  ]
+}
