@@ -1,17 +1,17 @@
 {
-  "date": "2026-05-14",
+  "date": "2026-05-15",
   "items": [
     {
       "source": "GitHub - Doragd/Algorithm-Practice-in-Industry",
       "title": "chore: update arxiv papers and HTML",
-      "link": "https://github.com/Doragd/Algorithm-Practice-in-Industry/commit/27da6adf2bda9c533725aa7a3bacc0ff221d7e5c",
-      "summary": "工业界搜广推实践仓库更新了最新 arxiv 论文列表和 HTML 文档（2026-05-13）"
+      "link": "https://github.com/Doragd/Algorithm-Practice-in-Industry/commit/412360feee556c43016fcd2c490535bf7cc577da",
+      "summary": "搜广推工业实践仓库自动更新arxiv论文列表和HTML页面"
     },
     {
       "source": "Netflix TechBlog",
-      "title": "Towards Generalizable and Efficient Large-Scale Generative Recommenders",
-      "link": "https://netflixtechblog.com/towards-generalizable-and-efficient-large-scale-generative-recommenders-a7db648aa257",
-      "summary": "Netflix 探讨大规模生成式推荐系统的可扩展性和泛化能力，推荐系统规模远超语言模型的 item catalog"
+      "title": "Democratizing Machine Learning at Netflix: Building the Model Lifecycle Graph",
+      "link": "https://netflixtechblog.com/democratizing-machine-learning-at-netflix-building-the-model-lifecycle-graph-5cc6d5828bb1",
+      "summary": "Netflix构建模型生命周期图，将被动模型目录转化为主动推荐引擎，加速ML资产复用、降低使用门槛"
     }
   ]
 }

@@ -1,28 +1,20 @@
-# 📡 推荐系统技术动态 — 2026-05-14
+# 📡 推荐系统技术动态 — LATEST
 
-> 自动抓取时间：2026-05-14 14:26 CST
-> 监控源数量：10 个
-> 本次有更新：✅ 有新内容
+> 最后更新：2026-05-15 22:04 CST
 
 ---
 
-## 📦 GitHub
+## 最新发现（2026-05-15）
 
-### [Algorithm-Practice-in-Industry (Doragd)](https://github.com/Doragd/Algorithm-Practice-in-Industry)  `工业实践` `搜广推`
+### 📦 GitHub
 
-- [[27da6ad] chore: update arxiv papers and HTML](https://github.com/Doragd/Algorithm-Practice-in-Industry/commit/27da6adf2bda9c533725aa7a3bacc0ff221d7e5c) · 2026-05-13
+- **[Algorithm-Practice-in-Industry]** [[412360f] chore: update arxiv papers and HTML](https://github.com/Doragd/Algorithm-Practice-in-Industry/commit/412360feee556c43016fcd2c490535bf7cc577da) · 2026-05-15
 
----
+### 📝 博客
 
-**无更新的源：** 美团技术团队、Spotify Engineering、LLM4Rec-Awesome-Papers (WLiK)、microsoft/recommenders
-
-**抓取失败的源：**
-
-- 王喆的机器学习笔记：请求失败: <urlopen error timed out>
-- 石塔西：请求失败: <urlopen error Tunnel connection failed: 502 Bad Gateway>
-- Eugene Yan：请求失败: HTTP Error 404: Not Found
-- Netflix TechBlog：请求失败: <urlopen error [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed:
-- Pinterest Engineering：请求失败: <urlopen error timed out>
+- **[Netflix TechBlog]** [Democratizing Machine Learning at Netflix: Building the Model Lifecycle Graph](https://netflixtechblog.com/democratizing-machine-learning-at-netflix-building-the-model-lifecycle-graph-5cc6d5828bb1) · 2026-05-04
+  - 构建模型生命周期图，将模型目录转化为主动推荐引擎
 
 ---
-*由懂哥自动巡查脚本生成 · 2026-05-14*
+
+*由懂哥自动巡查脚本生成*
