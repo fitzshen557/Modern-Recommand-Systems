@@ -1,19 +1,15 @@
-# 📡 推荐系统技术动态 — 2026-05-21
+# 📡 推荐系统技术动态 — 最新
 
-> 自动抓取时间：2026-05-21 22:05 CST
-> 监控源数量：10 个
-> 本次有更新：❌ 无新内容
+> 最后更新：2026-05-22 22:05 CST
+> 状态：❌ 无新内容
 
----
+## 最近有更新
 
-**说明：** fetch_updates.py 脚本超时被终止（SIGTERM），改用 web_search 补充搜索 3 个关键词。搜索结果均为已收录内容，无新增文章/commit。
+| 日期 | 来源 | 标题 | 链接 |
+|------|------|------|------|
+| 2026-05-20 | Doragd/Algorithm-Practice-in-Industry | Commit [cd2e3cc] | https://github.com/Doragd/Algorithm-Practice-in-Industry/commits/main |
+| 2026-05-15 | Netflix TechBlog | Democratizing Machine Learning at Netflix | https://netflixtechblog.com/democratizing-machine-learning-at-netflix-building-the-model-lifecycle-graph-5cc6d5828bb1 |
 
-**搜索记录：**
-- eugeneyan.com recommendation → 最新为 2025-03 "Improving RecSys in the Age of LLMs"（已收录）
-- netflixtechblog.com recommendation → 最新为 2026-01 "Generative Recommenders"（已收录于 2026-05-13）
-- github.com Doragd Algorithm-Practice-in-Industry → 最新 commit 为 2026-05-20（已收录于 2026-05-20）
+## 本次巡查
 
-**上次更新：** 2026-05-20 · Doragd commit [cd2e3cc]
-
----
-*由懂哥自动巡查脚本生成 · 2026-05-21*
+2026-05-22 巡查未发现新内容。各源最新文章/commit均已在往期收录。
