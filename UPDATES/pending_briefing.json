@@ -1,4 +1,23 @@
 {
-  "date": "2026-05-25",
-  "items": []
+  "date": "2026-05-26",
+  "items": [
+    {
+      "source": "Doragd/Algorithm-Practice-in-Industry",
+      "title": "chore: update arxiv papers and HTML",
+      "link": "https://github.com/Doragd/Algorithm-Practice-in-Industry/commit/d27f2dc294760dcd98ab62c8e3167a6f92426975",
+      "summary": "搜广推工业实践仓库更新了arxiv论文列表和HTML页面"
+    },
+    {
+      "source": "microsoft/recommenders",
+      "title": "Merge fix on wrong working directory in testing workflows (#2341)",
+      "link": "https://github.com/microsoft/recommenders/commit/6232b154548c955315650d58dca6bf1411c56020",
+      "summary": "修复测试工作流中错误的工作目录路径问题"
+    },
+    {
+      "source": "microsoft/recommenders",
+      "title": "Merge fix on empty secrets to make it in effect (#2335)",
+      "link": "https://github.com/microsoft/recommenders/commit/f902c822723134f329749a2acb3e08df675ca447",
+      "summary": "修复空secrets配置使其生效的问题"
+    }
+  ]
 }
