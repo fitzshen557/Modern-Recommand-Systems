@@ -1,23 +1,23 @@
 {
-  "date": "2026-05-26",
+  "date": "2026-05-27",
   "items": [
     {
-      "source": "Doragd/Algorithm-Practice-in-Industry",
+      "source": "Doragd/Algorithm-Practice-in-Industry (GitHub)",
       "title": "chore: update arxiv papers and HTML",
-      "link": "https://github.com/Doragd/Algorithm-Practice-in-Industry/commit/d27f2dc294760dcd98ab62c8e3167a6f92426975",
-      "summary": "搜广推工业实践仓库更新了arxiv论文列表和HTML页面"
+      "link": "https://github.com/Doragd/Algorithm-Practice-in-Industry/commit/526c598b0b1ff0630e16b05d79067f9968b93aed",
+      "summary": "今日新commit，自动更新arxiv论文列表和HTML渲染"
     },
     {
-      "source": "microsoft/recommenders",
-      "title": "Merge fix on wrong working directory in testing workflows (#2341)",
-      "link": "https://github.com/microsoft/recommenders/commit/6232b154548c955315650d58dca6bf1411c56020",
-      "summary": "修复测试工作流中错误的工作目录路径问题"
+      "source": "Eugene Yan",
+      "title": "Improving Recommendation Systems & Search in the Age of LLMs",
+      "link": "https://eugeneyan.com/writing/recsys-llm/",
+      "summary": "系统综述LLM时代工业界推荐/搜索系统的演进：Semantic IDs、多模态增强架构、Scaling Laws、蒸馏LoRA、统一搜索推荐架构"
     },
     {
-      "source": "microsoft/recommenders",
-      "title": "Merge fix on empty secrets to make it in effect (#2335)",
-      "link": "https://github.com/microsoft/recommenders/commit/f902c822723134f329749a2acb3e08df675ca447",
-      "summary": "修复空secrets配置使其生效的问题"
+      "source": "Netflix TechBlog",
+      "title": "Optimizing Recommendation Systems with JDK's Vector API",
+      "link": "https://netflixtechblog.com/optimizing-recommendation-systems-with-jdks-vector-api-30d2830401ec",
+      "summary": "Netflix分享用JDK Vector API优化推荐系统向量计算：从嵌套循环到矩阵乘法批处理，Flat Buffers + ThreadLocal提升推理吞吐"
     }
   ]
 }
