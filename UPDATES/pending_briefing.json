@@ -1,1 +1,11 @@
-{"date": "2026-05-29", "items": [{"source": "GitHub - Doragd/Algorithm-Practice-in-Industry", "title": "chore: update arxiv papers and HTML", "link": "https://github.com/Doragd/Algorithm-Practice-in-Industry/commit/eb8d2503c844051e4f7fd48c30a9b2439cdb69aa", "summary": "自动化脚本更新了arxiv论文列表和HTML页面，属日常维护性提交"}]}
+{
+  "date": "2026-05-31",
+  "items": [
+    {
+      "source": "Algorithm-Practice-in-Industry (Doragd)",
+      "title": "[e68f6c1] chore: recover arxiv papers and status",
+      "link": "https://github.com/Doragd/Algorithm-Practice-in-Industry/commit/e68f6c1b0c3b95e749390f3dfc9615cf3241a8a3",
+      "summary": "CI 自动恢复 arxiv 论文列表和状态文件"
+    }
+  ]
+}
