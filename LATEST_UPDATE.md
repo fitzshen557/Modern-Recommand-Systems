@@ -1,47 +1,20 @@
-# 📡 推荐系统技术动态 — 2026-06-04
+# 📡 推荐系统技术动态 — 2026-06-05
 
-> 自动抓取时间：2026-06-04 22:05 CST
+> 自动抓取时间：2026-06-05 22:05 CST
 > 监控源数量：10 个
-> 本次有更新：✅ 有新内容
+> 本次有更新：❌ 无新内容
 
 ---
 
-## 🏢 国内大厂
+## 说明
 
-### [美团技术团队](https://tech.meituan.com/)  `搜索` `推荐` `广告`
-
-- [从高拟真到真可用，LongCat-Video-Avatar 1.5 正式开源](https://tech.meituan.com/2026/05/25/LongCat-Video-Avatar-1.5.html)
-- [美团 LongCat 开源 General 365：树立推理评测新标尺](https://tech.meituan.com/2026/05/15/LongCat-General-365.html)
-- [用Agent评测思路管理AI Coding —— 31万行代码AI重构的实践](https://tech.meituan.com/2026/05/07/Agent-AI-Coding.html)
-- [LARYBench 发布：定义具身动作表征 ImageNet，首次度量从人类视频学习的泛化表征](https://tech.meituan.com/2026/04/27/LongCat-LARYBench.html)
-- [突破零样本 TTS 音色克隆上限：LongCat-AudioDiT 的声音克隆艺术](https://tech.meituan.com/2026/04/20/LongCat-AudioDiT.html)
-
-## 🏭 海外公司
-
-### [Spotify Engineering](https://engineering.atspotify.com/)  `音乐推荐` `用户兴趣`
-
-- [Coding Is No Longer the Constraint: Scaling Developer Experience to Teams and Ag…](https://engineering.atspotify.com/2026/6/code-with-claude-coding-is-no-longer-the-constraint/) · Wed, 03 Ju
-
-## 📦 GitHub
-
-### [Algorithm-Practice-in-Industry (Doragd)](https://github.com/Doragd/Algorithm-Practice-in-Industry)  `工业实践` `搜广推`
-
-- [[8332181] chore: update arxiv papers and HTML](https://github.com/Doragd/Algorithm-Practice-in-Industry/commit/8332181983285ae23313a6a0214459bd61996d8c) · 2026-06-04
-- [[869a4bd] Update arxiv_daily_full.yml](https://github.com/Doragd/Algorithm-Practice-in-Industry/commit/869a4bd533146fe1c4adec3dafe9db466a615a53) · 2026-06-04
-- [[f8f5392] Update arxiv_daily_recovery.yml](https://github.com/Doragd/Algorithm-Practice-in-Industry/commit/f8f539231789e8394306c09e29481b1417415fba) · 2026-06-04
-- [[89b4c6a] chore: recover arxiv papers and status](https://github.com/Doragd/Algorithm-Practice-in-Industry/commit/89b4c6a4fc8da9ea61d395d257a5db10c224506f) · 2026-06-03
+- 抓取脚本执行超时被终止，大部分源请求失败
+- web_search 回退检索未发现新的推荐系统相关文章（6月5日当天）
+- 上次更新（2026-06-04）已捕获的内容仍为最新
 
 ---
 
-**无更新的源：** LLM4Rec-Awesome-Papers (WLiK)、microsoft/recommenders
-
-**抓取失败的源：**
-
-- 王喆的机器学习笔记：请求失败: <urlopen error timed out>
-- 石塔西：请求失败: <urlopen error [SSL: WRONG_VERSION_NUMBER] wrong version number (_ssl.c:99
-- Eugene Yan：请求失败: HTTP Error 404: Not Found
-- Netflix TechBlog：请求失败: <urlopen error [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed:
-- Pinterest Engineering：请求失败: <urlopen error timed out>
+**抓取失败的源：** 王喆的机器学习笔记、石塔西、Eugene Yan、Netflix TechBlog、Pinterest Engineering
 
 ---
-*由懂哥自动巡查脚本生成 · 2026-06-04*
+*由懂哥自动巡查脚本生成 · 2026-06-05*
