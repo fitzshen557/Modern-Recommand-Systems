@@ -1,1 +1,17 @@
-{"date": "2026-06-04", "items": [{"source": "美团技术团队", "title": "LongCat-Video-Avatar 1.5 正式开源：从高拟真到真可用", "link": "https://tech.meituan.com/2026/05/25/LongCat-Video-Avatar-1.5.html", "summary": "美团开源视频Avatar模型1.5版，提升生成可用性和拟真度"}, {"source": "Spotify Engineering", "title": "Coding Is No Longer the Constraint: Scaling Developer Experience with Claude", "link": "https://engineering.atspotify.com/2026/6/code-with-claude-coding-is-no-longer-the-constraint/", "summary": "Spotify分享如何用Claude扩展开发者体验，从编码到团队协作规模化"}, {"source": "Doragd/Algorithm-Practice-in-Industry", "title": "arxiv papers update & recovery commits", "link": "https://github.com/Doragd/Algorithm-Practice-in-Industry/commit/8332181983285ae23313a6a0214459bd61996d8c", "summary": "搜广推工业实践仓库持续更新arxiv论文抓取与翻译"}]}
+{
+  "date": "2026-06-06",
+  "items": [
+    {
+      "source": "Netflix TechBlog",
+      "title": "Democratizing Machine Learning at Netflix: Building the Model Lifecycle Graph",
+      "link": "https://netflixtechblog.com/democratizing-machine-learning-at-netflix-building-the-model-lifecycle-graph-5cc6d5828bb1",
+      "summary": "Netflix构建Model Lifecycle Graph，统一管理ML生态中Pipeline编排、执行详情、数据血缘等元数据，降低ML实践门槛"
+    },
+    {
+      "source": "GitHub Doragd/Algorithm-Practice-in-Industry",
+      "title": "chore: recover arxiv papers and status",
+      "link": "https://github.com/Doragd/Algorithm-Practice-in-Industry/commit/b9c7c668f78864e5a6a5d7c51a6f3a0986a6c4c1",
+      "summary": "github-actions自动提交，恢复arxiv论文及状态，日常论文收集正常运行"
+    }
+  ]
+}
