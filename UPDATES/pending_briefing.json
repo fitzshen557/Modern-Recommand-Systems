@@ -1,17 +1,4 @@
 {
-  "date": "2026-06-06",
-  "items": [
-    {
-      "source": "Netflix TechBlog",
-      "title": "Democratizing Machine Learning at Netflix: Building the Model Lifecycle Graph",
-      "link": "https://netflixtechblog.com/democratizing-machine-learning-at-netflix-building-the-model-lifecycle-graph-5cc6d5828bb1",
-      "summary": "Netflix构建Model Lifecycle Graph，统一管理ML生态中Pipeline编排、执行详情、数据血缘等元数据，降低ML实践门槛"
-    },
-    {
-      "source": "GitHub Doragd/Algorithm-Practice-in-Industry",
-      "title": "chore: recover arxiv papers and status",
-      "link": "https://github.com/Doragd/Algorithm-Practice-in-Industry/commit/b9c7c668f78864e5a6a5d7c51a6f3a0986a6c4c1",
-      "summary": "github-actions自动提交，恢复arxiv论文及状态，日常论文收集正常运行"
-    }
-  ]
+  "date": "2026-06-07",
+  "items": []
 }
