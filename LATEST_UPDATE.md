@@ -1,22 +1,9 @@
-# 📡 推荐系统技术动态 — 2026-06-09
+# 📡 最新推荐系统技术动态
 
-> 自动抓取时间：2026-06-09 22:04 CST
-> 监控源数量：10 个
-> 本次有更新：✅ 有新内容
+> 最后更新：2026-06-10 22:04 CST
 
----
+详见 → [UPDATES/2026-06-10.md](UPDATES/2026-06-10.md)
 
-## 📦 GitHub
+## 最新条目
 
-### [Algorithm-Practice-in-Industry (Doragd)](https://github.com/Doragd/Algorithm-Practice-in-Industry)  `工业实践` `搜广推`
-
-- [[55a1f71] chore: update arxiv papers and HTML](https://github.com/Doragd/Algorithm-Practice-in-Industry/commit/55a1f71d98d3c4e9d877715b1d3d50a4bc4662a3) · 2026-06-09
-
----
-
-**无新更新的源：** Eugene Yan、Netflix TechBlog、美团技术团队、Pinterest Engineering、Spotify Engineering、王喆的机器学习笔记、石塔西、LLM4Rec-Awesome-Papers (WLiK)、microsoft/recommenders
-
-**抓取失败的源（脚本超时被终止）：** 全部源（主脚本执行超时）
-
----
-*由懂哥自动巡查脚本生成 · 2026-06-09*
+- **Doragd/Algorithm-Practice-in-Industry**: [4ba7ebf] chore: update arxiv papers and HTML (2026-06-10)
