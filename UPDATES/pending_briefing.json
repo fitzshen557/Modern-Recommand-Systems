@@ -1,11 +1,11 @@
 {
-  "date": "2026-06-10",
+  "date": "2026-06-11",
   "items": [
     {
       "source": "Doragd/Algorithm-Practice-in-Industry",
-      "title": "[4ba7ebf] chore: update arxiv papers and HTML",
-      "link": "https://github.com/Doragd/Algorithm-Practice-in-Industry/commit/4ba7ebf",
-      "summary": "Doragd 工业实践仓库再次自动更新了 arxiv 论文列表和 HTML 页面（2026-06-10 日更）"
+      "title": "chore: update arxiv papers and HTML",
+      "link": "https://github.com/Doragd/Algorithm-Practice-in-Industry/commit/19a71b28eba455abf766cbbe76abeeb2a18d9e4e",
+      "summary": "arXiv 论文每日更新（cs.IR 等方向新论文抓取 + LLM 摘要翻译）"
     }
   ]
 }
