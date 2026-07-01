@@ -1,4 +1,1 @@
-{
-  "date": null,
-  "items": []
-}
+{"date": "2026-07-01", "items": [{"source": "Doragd/Algorithm-Practice-in-Industry", "title": "chore: update arxiv papers and HTML", "link": "https://github.com/Doragd/Algorithm-Practice-in-Industry/commit/c37137593d89d0393743a841321824091d2944b8", "summary": "arXiv 每日论文例行更新（cs.IR 方向）"}, {"source": "Netflix TechBlog", "title": "GenPage: Towards End-to-End Generative Homepage Construction at Netflix", "link": "https://netflixtechblog.com/genpage-towards-end-to-end-generative-homepage-construction-at-netflix-77146fba8a08", "summary": "Netflix 探索用生成式方法端到端构建个性化首页，作者 Lequn Wang 等"}]}
