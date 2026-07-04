@@ -1,1 +1,11 @@
-{"date": "2026-07-03", "items": [{"source": "美团技术团队", "title": "美团 LongCat-2.0 正式发布：在国产算力集群上完成全流程训练与推理的万亿参数模型", "link": "https://tech.meituan.com/2026/06/30/LongCat2.0.html", "summary": "美团发布万亿参数 LongCat-2.0 模型，基于国产算力集群完成全流程训练与推理"}, {"source": "美团技术团队", "title": "ICML 2026 | 美团技术团队学术论文精选", "link": "https://tech.meituan.com/2026/06/29/ICML-2026.html", "summary": "美团 ICML 2026 收录论文精选"}, {"source": "美团技术团队", "title": "LongCat 开源 VitaBench 2.0：长期动态智能体基准新标杆", "link": "https://tech.meituan.com/2026/06/29/LongCat-VitaBench-2.0.html", "summary": "LongCat 开源 VitaBench 2.0 基准，面向长期动态智能体评估"}, {"source": "美团技术团队", "title": "美团技术团队顶会论文分享：搜索推荐ASX专场", "link": "https://tech.meituan.com/2026/06/18/2026-ASX.html", "summary": "美团搜索推荐团队顶会论文分享（ASX专场）"}, {"source": "美团技术团队", "title": "美团海报生成 AIGC 技术创新与实践", "link": "https://tech.meituan.com/2026/06/18/AIGC-poster.html", "summary": "美团在 AIGC 海报生成领域的技术创新与实践案例"}, {"source": "Algorithm-Practice-in-Industry (Doragd)", "title": "chore: update arxiv papers and HTML", "link": "https://github.com/Doragd/Algorithm-Practice-in-Industry/commit/a1e005224d86c0b906c7902e2e811494b53880f7", "summary": "Doragd 仓库更新了 arxiv 论文列表和相关 HTML 文档"}]}
+{
+  "date": "2026-07-04",
+  "items": [
+    {
+      "source": "GitHub (Doragd/Algorithm-Practice-in-Industry)",
+      "title": "chore: recover arxiv papers and status",
+      "link": "https://github.com/Doragd/Algorithm-Practice-in-Industry/commit/184d677233d33121de4fea44a72e3ecd88c2ce23",
+      "summary": "Doragd 仓库例行更新，恢复 arxiv 论文列表及状态信息。"
+    }
+  ]
+}
