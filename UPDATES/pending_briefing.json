@@ -1,4 +1,11 @@
 {
-  "date": "2026-07-18",
-  "items": []
+  "date": "2026-07-19",
+  "items": [
+    {
+      "source": "知乎",
+      "title": "推荐系统范式级重构综述：从DLRM时代到新范式",
+      "link": "https://www.zhihu.com/question/35248019/answer/2038710425735406661",
+      "summary": "系统梳理推荐算法从DLRM时代（精排堆深/粗排蒸馏/序列建模）向新范式（TIGER/HSTU/MTGR/OneRec/RankMixer）的变迁，涵盖精排生成式探索、序列Transformer工业落地、粗精排一致性优化等方向"
+    }
+  ]
 }
