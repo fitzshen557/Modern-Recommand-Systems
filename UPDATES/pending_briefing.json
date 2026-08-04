@@ -1,4 +1,1 @@
-{
-  "date": "2026-08-02",
-  "items": []
-}
+{"date": "2026-08-04", "items": [{"source": "arxiv/SIGIR'26 Industry", "title": "DANet: Cheaper is Better - A Discount-Aware Network for Conversion Rate Prediction in E-commerce Recommendation System", "link": "https://arxiv.org/abs/2607.12578", "summary": "提出折扣感知网络(DANet)用于CVR预估，通过傅里叶变换捕获商品长期折扣率趋势，分布去偏模块消除用户折扣偏好偏差，离线AUC+1.61%，线上pCVR+3.63%/GMV+2.23%，已部署天猫APP。"}]}
