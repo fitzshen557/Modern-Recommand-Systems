@@ -7,12 +7,13 @@
 | 指标 | 数值 |
 |------|------|
 | 覆盖日期 | 2026-09-14 ~ 2026-09-20 |
-| 新增条目 | 0 |
-| 最后更新 | 2026-09-15 |
+| 新增条目 | 1 |
+| 最后更新 | 2026-09-16 |
 
 ### 本周外部动态
 
-> 暂无新增内容（截至 2026-09-15）
+**2026-09-16**
+- [arxiv 2609.16407] Balancing Trial and Reorder: A Hybrid Sequential Transformer-GBDT Ranker for On-Demand Delivery — 即时配送场景的混合排序器，Transformer+GBDT结合，跨域统一餐厅/零售排序，CVR提升显著（https://arxiv.org/abs/2609.16407）
 
 ### 本周内部更新
 

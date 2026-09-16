@@ -1,1 +1,1 @@
-{"date": "2026-09-15", "items": []}
+{"date": "2026-09-16", "items": [{"source": "arxiv 2609.16407", "title": "Balancing Trial and Reorder: A Hybrid Sequential Transformer-GBDT Ranker for On-Demand Delivery", "link": "https://arxiv.org/abs/2609.16407", "summary": "即时配送场景的混合排序器，Transformer+GBDT结合，V1~V3迭代提升Merchant Trial Rate累计+7.3%，跨域统一餐厅/零售排序器，Global CVR +0.16%"}]}
