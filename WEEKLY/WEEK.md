@@ -7,8 +7,8 @@
 | 指标 | 数值 |
 |------|------|
 | 覆盖日期 | 2026-09-14 ~ 2026-09-20 |
-| 新增条目 | 15 |
-| 最后更新 | 2026-09-17 |
+| 新增条目 | 16 |
+| 最后更新 | 2026-09-18 |
 
 ### 本周外部动态
 
@@ -24,6 +24,9 @@
 - [arxiv 2607.24804] Bumblebee: Interleaved Mixed-Layer Building Blocks for Large-Scale Recommendation — 交错混合层构建块，大规模推荐新架构（https://arxiv.org/abs/2607.24804）
 - [arxiv 2609.18695] SURF: Subtractive Updates for Recommender Forgetting — 推荐系统的减法更新遗忘机制（https://arxiv.org/abs/2609.18695）
 - [arxiv 2609.16625] AURA: Agentic Diagnosis and Refinement for Production Recommender Systems (RecSys'26 Workshop) — 生产推荐系统的智能体诊断与优化（https://arxiv.org/abs/2609.16625）
+
+**2026-09-18**
+- [arxiv 2609.19787] Dense Feature Representation over Sequence Modeling: KDD Cup 2026 UniRec Challenge — 腾讯工业级CVR预测竞赛第10名方案，揭示密集特征表示和优化器选择比序列建模更能提升AUC（https://arxiv.org/abs/2609.19787）
 
 **2026-09-16**
 - [arxiv 2609.16407] Balancing Trial and Reorder: A Hybrid Sequential Transformer-GBDT Ranker for On-Demand Delivery — 即时配送场景的混合排序器，Transformer+GBDT结合，跨域统一餐厅/零售排序，CVR提升显著（https://arxiv.org/abs/2609.16407）

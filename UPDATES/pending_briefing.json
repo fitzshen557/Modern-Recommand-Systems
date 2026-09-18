@@ -1,71 +1,11 @@
 {
-  "date": "2026-09-17",
+  "date": "2026-09-18",
   "items": [
     {
-      "source": "arxiv",
-      "title": "LIGE-GR: A Smooth Leap from Ranking to Generative Recommendation in the LLM Era",
-      "link": "https://arxiv.org/abs/2609.18148",
-      "summary": "从判别式排序平滑过渡到生成式推荐的新框架，弥合传统排序与LLM生成式推荐之间的gap"
-    },
-    {
-      "source": "arxiv",
-      "title": "P3Rec: Distilling Prior–Posterior Preference Reasoning for LLM-based Recommendation",
-      "link": "https://arxiv.org/abs/2609.13993",
-      "summary": "通过先验-后验偏好推理蒸馏提升LLM推荐能力"
-    },
-    {
-      "source": "arxiv",
-      "title": "Unleash LLMs Potential for Sequential Recommendation by Coordinating Dual Dynamic Index Mechanism",
-      "link": "https://arxiv.org/abs/2409.09253",
-      "summary": "双动态索引机制释放LLM在序列推荐中的潜力"
-    },
-    {
-      "source": "arxiv",
-      "title": "Scaling Articulated Rationales for MLLM-based Recommendation",
-      "link": "https://arxiv.org/abs/2609.17639",
-      "summary": "扩展多模态LLM推荐的可组合推理理由"
-    },
-    {
-      "source": "arxiv",
-      "title": "ReliGRec: Reliability-Oriented LLM-Based Generative Recommendation via User-Risk-Aware Prompt Routing",
-      "link": "https://arxiv.org/abs/2609.16560",
-      "summary": "面向可靠性的生成式推荐，通过用户风险感知提示路由提升稳定性"
-    },
-    {
-      "source": "arxiv",
-      "title": "Self-Evolving Memory for Generative Recommendation",
-      "link": "https://arxiv.org/abs/2609.15598",
-      "summary": "生成式推荐的自进化记忆机制，已被CIKM'26接收"
-    },
-    {
-      "source": "arxiv",
-      "title": "Evaluating Brand Retrieval and Ranking in Large Language Model Recommendations",
-      "link": "https://arxiv.org/abs/2609.16304",
-      "summary": "评估LLM推荐中品牌检索与排序能力"
-    },
-    {
-      "source": "arxiv",
-      "title": "Efficient Swing Computation for Retrieval in Large-Scale Recommender Systems",
-      "link": "https://arxiv.org/abs/2609.16850",
-      "summary": "大规模推荐系统检索中Swing相似度高效计算，SIGMOD'27技术报告"
-    },
-    {
-      "source": "arxiv",
-      "title": "Bumblebee: Interleaved Mixed-Layer Building Blocks for Large-Scale Recommendation Systems",
-      "link": "https://arxiv.org/abs/2607.24804",
-      "summary": "大规模推荐系统的交错混合层构建块，新型模型架构设计"
-    },
-    {
-      "source": "arxiv",
-      "title": "SURF: Subtractive Updates for Recommender Forgetting",
-      "link": "https://arxiv.org/abs/2609.18695",
-      "summary": "推荐系统中的减法更新遗忘机制，让推荐系统学会「忘记」"
-    },
-    {
-      "source": "arxiv",
-      "title": "AURA: Agentic Diagnosis and Refinement for Production Recommender Systems at Scale",
-      "link": "https://arxiv.org/abs/2609.16625",
-      "summary": "大规模生产推荐系统的智能体诊断与优化，RecSys'26 Workshop论文"
+      "source": "arxiv/KDD Cup 2026",
+      "title": "Dense Feature Representation over Sequence Modeling: A Solution to the KDD Cup 2026 UniRec Challenge",
+      "link": "https://arxiv.org/abs/2609.19787",
+      "summary": "腾讯工业级CVR预测竞赛第10名方案，34.82M数据规模，揭示密集特征表示和优化器选择比序列建模更能提升AUC（0.813→0.829），为工业CVR建模提供重要实证参考"
     }
   ]
 }
