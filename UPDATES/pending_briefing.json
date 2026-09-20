@@ -1,11 +1,1 @@
-{
-  "date": "2026-09-18",
-  "items": [
-    {
-      "source": "arxiv/KDD Cup 2026",
-      "title": "Dense Feature Representation over Sequence Modeling: A Solution to the KDD Cup 2026 UniRec Challenge",
-      "link": "https://arxiv.org/abs/2609.19787",
-      "summary": "腾讯工业级CVR预测竞赛第10名方案，34.82M数据规模，揭示密集特征表示和优化器选择比序列建模更能提升AUC（0.813→0.829），为工业CVR建模提供重要实证参考"
-    }
-  ]
-}
+{"date": "2026-09-19", "items": []}
