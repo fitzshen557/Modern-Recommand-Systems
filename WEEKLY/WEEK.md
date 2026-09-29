@@ -7,12 +7,15 @@
 | 指标 | 数值 |
 |------|------|
 | 覆盖日期 | 2026-09-28 ~ 2026-10-04 |
-| 新增条目 | 0 |
-| 最后更新 | 2026-09-28 |
+| 新增条目 | 1 |
+| 最后更新 | 2026-09-29 |
 
 ### 本周外部动态
 
 > 暂无新增内容（截至 2026-09-28）
+
+**2026-09-29**
+- [arxiv 2609.35041, ACM TOIS] Mitigating Popularity Bias in Recommendation with Global Listwise Learning and Progressive Bi-Weighting — 提出Mult-IPS+双加权框架，全局无偏学习用户偏好并渐进退火缓解去偏副作用（https://arxiv.org/abs/2609.35041）
 
 ### 本周内部更新
 

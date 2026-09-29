@@ -1,1 +1,1 @@
-{"date": "2026-09-28", "items": []}
+{"date": "2026-09-29", "items": [{"source": "arxiv 2609.35041, ACM TOIS", "title": "Mitigating Popularity Bias in Recommendation with Global Listwise Learning and Progressive Bi-Weighting", "link": "https://arxiv.org/abs/2609.35041", "summary": "提出Mult-IPS框架结合多项式似然与逆倾向评分，全局无偏学习用户偏好；设计双加权策略+渐进式退火，缓解激进去偏对表征学习的负面影响"}]}
