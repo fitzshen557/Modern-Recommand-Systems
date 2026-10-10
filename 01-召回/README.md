@@ -25,3 +25,4 @@
 | [LETTER.md](./LETTER.md) | Hierarchical Semantic Tokenization | 2024 |
 | [LC-Rec.md](./LC-Rec.md) | LLM-Collaborative Generative Rec | 2024 |
 | [UniSearch.md](./UniSearch.md) | Unified Search & Recommendation | 2025 |
+| [前沿技术方案概览-2024-2026.md](./前沿技术方案概览-2024-2026.md) | 近三年五大路线前沿方案概览（选型用） | 2026 |
