@@ -1,5 +1,27 @@
 # 推荐系统技术动态周报
 
+## 2026-W42 (10-12 ~ 10-18)
+
+### 本周速览
+
+| 指标 | 数值 |
+|------|------|
+| 覆盖日期 | 2026-10-12 ~ 2026-10-18 |
+| 新增条目 | 2 |
+| 最后更新 | 2026-10-16 |
+
+### 本周外部动态
+
+**2026-10-16**
+- [Netflix TechBlog] Measuring the Impact of Personalized Recommendations — 用行为模型分离会员固有偏好与推荐的增量效应，借助算法探索等自然变异估计推荐对选择的因果影响（https://netflixtechblog.com/measuring-the-impact-of-personalized-recommendations-4c26be3a4d96）
+- [Netflix TechBlog] The Lifecycle of LLM-as-a-Judge: Building, Aligning, and Monitoring at scale — 系统介绍 LLM-as-a-Judge 的构建、对齐与规模化监控全生命周期，用于推荐与内容质量评估（https://netflixtechblog.com/the-lifecycle-of-llm-as-a-judge-building-aligning-and-monitoring-at-scale-c95bd8283508）
+
+### 本周内部更新
+
+- 无更新
+
+---
+
 ## 2026-W40 (09-28 ~ 10-04)
 
 ### 本周速览
