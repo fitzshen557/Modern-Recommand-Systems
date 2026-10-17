@@ -1,4 +1,1 @@
-{"date": "2026-10-16", "items": [
-  {"source": "Netflix TechBlog", "title": "Measuring the Impact of Personalized Recommendations", "link": "https://netflixtechblog.com/measuring-the-impact-of-personalized-recommendations-4c26be3a4d96", "summary": "用行为模型分离会员固有偏好与推荐的增量效应，借助推荐系统的自然变异（如算法探索）估计推荐对用户选择的因果影响。"},
-  {"source": "Netflix TechBlog", "title": "The Lifecycle of LLM-as-a-Judge: Building, Aligning, and Monitoring at scale", "link": "https://netflixtechblog.com/the-lifecycle-of-llm-as-a-judge-building-aligning-and-monitoring-at-scale-c95bd8283508", "summary": "系统介绍 LLM-as-a-Judge 的构建、对齐与规模化监控全生命周期，用于推荐与内容质量评估。"}
-]}
+{"date": "2026-10-17", "items": []}
